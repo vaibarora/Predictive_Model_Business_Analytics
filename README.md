@@ -177,3 +177,6 @@ The notebook includes the following visualizations:
 - `scikit-learn` — RFE, Logistic Regression, train/test split, classification metrics
 - `statsmodels` — GLM with logit link for interpretable coefficients
 - `matplotlib`, `seaborn` — Visualizations
+--
+
+New changes to understand squash commit
